@@ -32,8 +32,17 @@
 - If you have an error, try to solve it yourself, if you can't then view the Q&A section 
 
 ## Read Before You Start! 
-- 
+- Download Starter Code and Source Materials 
+- Jonas' Resources Page: http://codingheroes.io/resources/
 
 ## Migration Guide To v2 + Old Course 
+Note
 
 ## Setting Up Our Code Editor 
+- Download VSCode 
+- Update your theme 
+- Settings 
+  - Auto save: onFocusChange 
+  - Multi Cursor Modifier: CtrlCommand
+  - Word Wrap: On 
+  - Format On Save: On 
